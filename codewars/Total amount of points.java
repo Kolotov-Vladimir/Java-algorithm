@@ -1,3 +1,7 @@
+//if x > y: 3 points (win)
+//if x < y: 0 points (loss)
+//if x = y: 1 point (tie)
+
 public class TotalPoints {
   
     public static int points(String[] games) {
